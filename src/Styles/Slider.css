@@ -1,0 +1,12 @@
+.container-list-slider {
+}
+
+.slider-container {
+  max-width: 350px;
+  overflow: hidden;
+  margin: auto;
+}
+
+.img-list {
+  display: flex;
+}

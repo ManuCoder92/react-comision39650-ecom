@@ -1,0 +1,24 @@
+.container-shop {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #faf7f2;
+  /* background-color: black; */
+}
+
+.container-shop > h1 {
+  text-align: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  padding-top: 10px;
+  color: #997b66;
+  font-size: 3rem;
+}
+
+.container-products {
+  display: flex;
+
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 30px;
+}
